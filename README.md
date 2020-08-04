@@ -53,6 +53,6 @@ Example of a user log JSON:
 
 # How to run:
 
-1. ```$ pip install -r requirements.txt```
+1. ```pip install -r requirements.txt```
 2. Make sure you have postgreSQL server up and running. Default id: postgres pw: test (change in create_tables.py)
 3. Run the main script with ``python main.py``
