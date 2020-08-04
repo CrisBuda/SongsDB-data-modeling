@@ -45,3 +45,7 @@ Example of a user log JSON:
   "userId": "49"
 }
 ```
+
+
+Database schema:
+
