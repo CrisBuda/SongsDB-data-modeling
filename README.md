@@ -47,11 +47,11 @@ Example of a user log JSON:
 ```
 
 
-#Database schema:
+# Database schema:
 
 ![Schema](https://github.com/CrisBuda/SongsDB-data-modeling/blob/master/db.png)
 
-#How to run:
+# How to run:
 
 1. Make sure you have postgreSQL server up and running. Default id: postgres pw: test (change in create_tables.py)
 2. Run the main script with ``python main.py``
