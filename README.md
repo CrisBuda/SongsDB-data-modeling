@@ -49,3 +49,4 @@ Example of a user log JSON:
 
 Database schema:
 
+![Architecture](https://github.com/CrisBuda/SongsDB-data-modeling/blob/master/db.jpg)
