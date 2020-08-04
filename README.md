@@ -54,4 +54,4 @@ Example of a user log JSON:
 #How to run:
 
 1. Make sure you have postgreSQL server up and running. Default id: postgres pw: test (change in create_tables.py)
-2. ``python main.py``
+2. Run the main script with ``python main.py``
