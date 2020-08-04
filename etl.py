@@ -101,4 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("\n\nFinished processing!!!\n\n")
+    print("\n\nFinished processing\n\n")
